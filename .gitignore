@@ -1,0 +1,39 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment & secret files
+.env
+*.env
+openai_key.txt
+shopify_config.json
+config.json
+
+# Logs
+*.log
+logs/
+
+# VS Code files
+.vscode/
+*.code-workspace
+
+# Streamlit config
+.streamlit/config.toml
+
+# Python virtual environments
+venv/
+ENV/
+env/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Build & dist folders (if using packaging tools)
+dist/
+build/
+*.egg-info/
